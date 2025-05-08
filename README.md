@@ -1,4 +1,5 @@
-\
+[Link to Generated Report](https://drive.google.com/file/d/1cFJvC9IFSKTtaIQNmQfDaB63FAr2-JrS/view?usp=sharing)
+
 # Loop Backend - Restaurant Uptime Monitoring
 
 ## Project Overview
